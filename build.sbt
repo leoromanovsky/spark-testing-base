@@ -1,4 +1,4 @@
-organization := "com.holdenkarau"
+organization := "com.leoromanovsky"
 
 name := "spark-testing-base"
 
